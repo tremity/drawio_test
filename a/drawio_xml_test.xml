@@ -1,11 +1,17 @@
-<mxfile host="Electron" modified="2020-11-30T14:34:52.002Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/13.9.9 Chrome/85.0.4183.121 Electron/10.1.5 Safari/537.36" etag="WnyvmZzmnN9yFc16K4qG" compressed="false" version="13.9.9" type="device">
+<mxfile host="Electron" modified="2020-11-30T14:39:22.973Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/13.9.9 Chrome/85.0.4183.121 Electron/10.1.5 Safari/537.36" etag="aB2OVtq-K2wI4eD47vIg" compressed="false" version="13.9.9" type="device">
   <diagram id="9op-vsTWm4N_wVDwuVI4" name="Page-1">
-    <mxGraphModel dx="1186" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2066" dy="1220" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="YLzcgEe_oOlEXdQbgT05-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YLzcgEe_oOlEXdQbgT05-1" target="YLzcgEe_oOlEXdQbgT05-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YLzcgEe_oOlEXdQbgT05-1" value="Ciao" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YLzcgEe_oOlEXdQbgT05-2" value="another box" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="580" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
